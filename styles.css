@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(255, 255, 255, 0.877);
+    font-family: 'Poppins', sans-serif;
+}
+
+.rodolfo {
+    border-radius: 10%;
+    width:200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:auto;
+}
+
+header {
+    float: left;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 10%;
+    padding: 30px;
+}
+
+main {
+    padding-left: 100px;
+    padding-right: 100px;
+    float: left;
+}
